@@ -2,7 +2,7 @@ Summary:	Use Cache URLs in your Django application
 Summary(pl.UTF-8):	Wykorzystanie URL-i cache'a w aplikacjach Django
 Name:		python3-django_cache_url
 Version:	3.4.4
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/django-cache-url/
